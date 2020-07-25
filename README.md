@@ -1,20 +1,13 @@
-### Hi there 👋
+<div align="center">
+	<p>
+		<img src="https://raw.githubusercontent.com/diorcula/diorcula/master/header.svg" width="800" height="400">
+	</p>
+</div>
 
-<!--
-**diorcula/diorcula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+	💻 I'm working on my portfolio website which is coming soon... ⏳
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-https://raw.githubusercontent.com/diorcula/diorcula/master/header.svg
-
-- 🔭 I’m currently working on ...
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=diorcula&color=brightgreen&style=flat-square" alt="Profile views" />
+</p>
