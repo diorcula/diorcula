@@ -449,56 +449,7 @@
 	.st443{fill:url(#SVGID_440_);}
 	.st444{fill:url(#SVGID_441_);}
 	.st445{fill:url(#SVGID_442_);}
-
-					.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
-				}
-				p {
-					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
-				}
-
 </style>
-<div class="container">
-	<h1>Hi 👋, Diorcula here!</h1>
-	<p>This is a test</p>
-</div>
 
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="700" y1="1.1149" x2="700" y2="982.5244">
 	<stop  offset="4.585012e-003" style="stop-color:#152817"/>
