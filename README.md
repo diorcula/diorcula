@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/eJLjiIJFNiHySBfy4O/giphy.gif">
 
 
-# Hi, I'm Fedor
+# Hi, I'm Diorcula
 Full-Stack | Software engineer :robot:. (In progress)
 
 Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
