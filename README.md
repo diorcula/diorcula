@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/eJLjiIJFNiHySBfy4O/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/eJLjiIJFNiHySBfy4O/giphy.gif">
 
 
 # Hi, I'm Fedor
