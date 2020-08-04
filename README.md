@@ -25,4 +25,4 @@ Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
 ## Statistics
 ![Diorcula's github stats](https://github-readme-stats.vercel.app/api?username=diorcula&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/diorcula)
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/diorcula/show_legend=true/)
