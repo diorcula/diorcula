@@ -1,6 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/AOSwwqVjNZlDO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-AOSwwqVjNZlDO">via GIPHY</a></p>
-
-img align="right" width="400" height="400" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif">
+img align="right" width=100% height=100% position:relative src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif">
 
 
 # Hi, I'm Fedor
