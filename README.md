@@ -9,7 +9,7 @@ Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
 ## About me 
 - :earth_americas: I'm from Arnhem - The Netherlands :netherlands:
 - :video_game: I like to play video games :space_invader:
-- :cheese: I love  and cheese!
+- :cheese: I love cheese!
 
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
