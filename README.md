@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Diorcula
-Full-Stack | Software engineer :robot:. (In progress)
+ICT-Software Development (HBO) :robot:. (In progress)
 
 Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
 
