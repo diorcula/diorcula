@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Diorcula
-ICT-Software Development (HBO) :robot:. (In progress)
+ICT-Software Development (HBO) :robot:.
 
 Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
 
