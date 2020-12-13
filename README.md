@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/SsIaV26PqS6p9BNwgm/giphy.gif">
 
 
-# Hi, I'm Fedor
+# Hi, I'm Diorcula
 ICT-Software Development (HBO) :robot:.
 
 Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
