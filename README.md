@@ -12,6 +12,7 @@
 - :cheese: I love cheese!
 
 # 👨‍💻 Technology Stack
+![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
 
