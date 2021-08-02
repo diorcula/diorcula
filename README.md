@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
 
 # Hi, I'm Fedor, a.k.a. Diorcula
 3rd year ICT-Software Development (HBO) :robot:.
@@ -15,3 +15,5 @@ Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
 ## Statistics
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
