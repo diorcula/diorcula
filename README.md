@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20🖖!&fontAlign=30&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Welcome%20🖖!&fontAlign=30&fontAlignY=30)
 
 # Biography
 - My name is Fedor a.k.a. Diorcula
@@ -15,4 +15,4 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
 # Statistics
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&text=Goodbye%20👋!&fontAlign=70&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
