@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=capsule_render&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20my%20name%20is%20Fedor&fontSize=90)
 
-# Hi, I'm Fedor, a.k.a. Diorcula
-3rd year ICT-Software Development (HBO) :robot:.
+# a.k.a. Diorcula
+I'm a 3rd year ICT-Software Development :robot:.
 Starting my internship at Instance Studio in September 2021
 
 Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
