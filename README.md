@@ -1,8 +1,9 @@
 <img align="right" src="https://media.giphy.com/media/SsIaV26PqS6p9BNwgm/giphy.gif">
 
 
-# Hi, I'm Diorcula
-ICT-Software Development (HBO) :robot:.
+# Hi, I'm Fedor, a.k.a. Diorcula
+3rd year ICT-Software Development (HBO) :robot:.
+Starting my internship at Instance Studio in September 2021
 
 Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
 
