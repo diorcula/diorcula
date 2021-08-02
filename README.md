@@ -21,11 +21,9 @@
 ![](https://img.shields.io/badge/Language-Csharp-informational?style=flat&logo=Csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-HTML/CSS-informational?style=flat&logo=HMTL&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Bashshell&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-MSSQLServer-informational?style=flat&logo=MSSQLServer&logoColor=white&color=2bbc8a)
-
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
 
 # Statistics
