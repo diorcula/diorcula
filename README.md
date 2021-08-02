@@ -14,5 +14,9 @@
 # 👨‍💻 Technology Stack
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
+
 # Statistics
+![Diorcula's GitHub stats](https://github-readme-stats.vercel.app/api?username=diorcula&show_icons=true)
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
