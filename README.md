@@ -16,4 +16,4 @@ Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
 
 ## Statistics
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
