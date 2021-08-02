@@ -14,7 +14,7 @@
 # 👨‍💻 Technology Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
 
 
 
