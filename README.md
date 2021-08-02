@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20🖖!&fontSize=90)
 
 # Biography
-<img src="https://i.imgur.com/ZaGJ1hc.png" align="right">
 - My name is Fedor a.k.a. Diorcula
 - I'm a 3rd year ICT-Software Development :robot:
 - I study at the Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
