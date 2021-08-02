@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
 
 # Hi, I'm Fedor, a.k.a. Diorcula
 3rd year ICT-Software Development (HBO) :robot:.
@@ -16,4 +16,4 @@ Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
 
 ## Statistics
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
