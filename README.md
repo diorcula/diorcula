@@ -38,5 +38,7 @@
 </p>
 </details>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=diorcula&theme=react-dark&hide_border=true&area=true)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=112D4E&section=footer)
