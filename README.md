@@ -29,7 +29,7 @@
 # 📈 Statistics
 <p align="center">
   <a href="https://github.com/diorcula">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=diorcula&show_icons=true&hide_border=true&title_color=DBE2EF&amp&icon_color=DBE2EF&amp&text_color=DBE2EF&amp&bg_color=1E2C3A&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=diorcula&show_icons=true&hide_border=true&title_color=DBE2EF&amp&icon_color=DBE2EF&amp&text_color=DBE2EF&amp&bg_color=112D4E&count_private=true&include_all_commits=true"/>
   </a>
   
   <a href="https://github.com/diorcula">
