@@ -12,18 +12,15 @@
 - :cheese: I love cheese!
 
 # 👨‍💻 Technology Stack
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJ%20IDEA&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Csharp-informational?style=flat&logo=Csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-HTML/CSS-informational?style=flat&logo=HMTL&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=official-bash-logo&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Tools-MSSQLServer-informational?style=flat&logo=MSSQLServer&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=1e2c3a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=1e2c3a)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=1e2c3a)
+![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJ%20IDEA&logoColor=white&color=1e2c3a)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=1e2c3a)
+![](https://img.shields.io/badge/Language-Csharp-informational?style=flat&logo=Csharp&logoColor=white&color=1e2c3a)
+![](https://img.shields.io/badge/Language-HTML/CSS-informational?style=flat&logo=HMTL&logoColor=white&color=1e2c3a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=official-bash-logo&logoColor=white&color=1e2c3a)
+![](https://img.shields.io/badge/Tools-MSSQLServer-informational?style=flat&logo=MSSQLServer&logoColor=white&color=1e2c3a)
 
 
 # 📈 Statistics
