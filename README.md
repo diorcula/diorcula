@@ -40,6 +40,6 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=diorcula&theme=react-dark&hide_border=true&area=true)
 
-<figure><embed src="https://wakatime.com/share/@ed4746a7-cb09-4f4d-827d-6878009e1cfd/ba89aa03-c2a4-4205-b8ba-6713f53e6228.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ed4746a7-cb09-4f4d-827d-6878009e1cfd/2ec31be1-c576-46bc-b912-24ee8d6961da.png" /></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=112D4E&section=footer)
