@@ -43,4 +43,4 @@
 
 <img src="https://wakatime.com/share/@ed4746a7-cb09-4f4d-827d-6878009e1cfd/20738297-a082-4d0b-8388-da15d96c8fea.svg"></img>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=112D4E&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1E2C3A&section=footer)
