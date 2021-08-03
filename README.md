@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=250&type=waving&&color=_DBE2EF&section=header&text=Welcome%20🖖!)
+![header](https://capsule-render.vercel.app/api?height=250&type=waving&&color=_hexcode#DBE2EF&section=header&text=Welcome%20🖖!)
 
 # 📓 Biography
 - My name is Fedor a.k.a. Diorcula
