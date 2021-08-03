@@ -2,8 +2,8 @@
 
 # 📓 Biography
 - My name is Fedor a.k.a. Diorcula
-- I'm a 3rd year ICT-Software Development :robot:
-- I study at the Hogeschool van Arnhem & Nijmegen Student. :man_technologist:
+- I'm a 3rd year ICT-Software Development student :robot:
+- I study at the Hogeschool van Arnhem & Nijmegen :man_technologist:
 - Starting my internship at Instance Studio in September of 2021
 
 ## 🖋️ About me 
