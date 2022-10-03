@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?height=250&type=waving&&color=112D4E&section=header&text=Welcome%20🖖!&fontColor=DBE2EF)
-
+[![@diorcula's Holopin board](https://holopin.io/api/user/board?user=diorcula)](https://holopin.io/@diorcula)
 # 📓 Biography
 - My name is Fedor a.k.a. Diorcula
 - I'm a 3rd year ICT-Software Development student :robot:
