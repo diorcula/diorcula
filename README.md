@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?height=180&type=waving&color=31748f&section=header&&text=Hi%20👋,%20I'm%20diorcula&fontColor=e0def4&fontSize=40)
 
-<h3 align="center">A passionate Software Development student from The Netherlands</h3>
+<h3>A passionate Software Development student from The Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diorcula&label=Profile%20views&color=0e75b6&style=flat" alt="diorcula" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=diorcula&label=Profile%20views&color=0e75b6&style=flat" alt="diorcula" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diorcula" alt="diorcula" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diorcula" alt="diorcula" /></a> </p>
 
 - 🔭 I’m currently working on [Haskell JSON parser](https://github.com/diorcula/APP_haskell-json-parser)
 
