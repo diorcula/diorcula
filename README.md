@@ -23,6 +23,7 @@
 ---
 
 ## 📈 Statistics
+ <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--START_SECTION:waka-->
 
 ```text
@@ -38,7 +39,6 @@ Other     0 secs          ░░░░░░░░░░░░░░░░░░
 ---
 
 <h2 align="left">Connect with me:</h2>
- <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png?theme=clean" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <p align="left">
 <a href="https://linkedin.com/in/fkasoffers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fkasoffers" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/diorcula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="diorcula" height="30" width="40" /></a>
