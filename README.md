@@ -2,8 +2,6 @@
 
 <h3>A passionate Software Development student from The Netherlands</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=diorcula&label=Profile%20views&color=0e75b6&style=flat" alt="diorcula" /> </p>
-
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diorcula" alt="diorcula" /></a> </p>
 
 - 🔭 I’m currently working on [Haskell JSON parser](https://github.com/diorcula/APP_haskell-json-parser)
@@ -36,6 +34,7 @@ Other     0 secs          ░░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<p> <img src="https://komarev.com/ghpvc/?username=diorcula&label=Profile%20views&color=0e75b6&style=flat" alt="diorcula" /> </p>
 ---
 
 <h2 align="left">Connect with me:</h2>
