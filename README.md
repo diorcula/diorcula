@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?height=250&type=waving&&color=112D4E&section=header&text=Welcome%20🖖!&fontColor=DBE2EF)
+![header](https://capsule-render.vercel.app/api?height=250&type=waving&&color=112D4E&section=header&fontColor=DBE2EF)
 
 <h1 align="center">Hi 👋, I'm diorcula</h1>
+
 <h3 align="center">A passionate Software Development student from The Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diorcula&label=Profile%20views&color=0e75b6&style=flat" alt="diorcula" /> </p>
@@ -39,11 +40,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diorcula&show_icons=true&locale=en&layout=compact" alt="diorcula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diorcula&show_icons=true&locale=en" alt="diorcula" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diorcula&" alt="diorcula" /></p>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=diorcula&theme=react-dark&hide_border=true&area=true)
-<img src="https://wakatime.com/share/@ed4746a7-cb09-4f4d-827d-6878009e1cfd/1cf1eecd-4e99-43f6-bee8-147800bea677.svg"></img>
 
 [![@diorcula's Holopin board](https://holopin.io/api/user/board?user=diorcula)](https://holopin.io/@diorcula)
 
