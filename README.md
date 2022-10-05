@@ -36,12 +36,10 @@
 
 ---
 ## 📈 Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=diorcula&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=C4A7E7&background=191724&dates=E0DEF4&stroke=EBBCBA&ring=31748F&currStreakNum=E0DEF4&sideNums=E0DEF4&currStreakLabel=E0DEF4&sideLabels=E0DEF4)](https://git.io/streak-stats)
+<!--START_SECTION:waka-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diorcula&show_icons=true&locale=en&layout=compact" alt="diorcula" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diorcula&show_icons=true&locale=en" alt="diorcula" /></p>
-
+<!--END_SECTION:waka-->
+---
 [![@diorcula's Holopin board](https://holopin.io/api/user/board?user=diorcula)](https://holopin.io/@diorcula)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=31748f&section=footer)
