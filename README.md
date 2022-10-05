@@ -36,6 +36,8 @@
 
 
 ## 📈 Statistics
+[![GitHub Streak](https://streak-stats.demolab.com?user=diorcula&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=C4A7E7&background=191724&dates=E0DEF4&stroke=EBBCBA&ring=31748F&currStreakNum=E0DEF4&sideNums=E0DEF4&currStreakLabel=E0DEF4&sideLabels=E0DEF4)](https://git.io/streak-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diorcula&show_icons=true&locale=en&layout=compact" alt="diorcula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diorcula&show_icons=true&locale=en" alt="diorcula" /></p>
