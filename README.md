@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&&color=#191724&section=header&fontColor=#e0def4&text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&&height=200&type=waving&&color=#191724&section=header&fontColor=#e0def4)
 
 <h1 align="center">Hi 👋, I'm diorcula</h1>
 
