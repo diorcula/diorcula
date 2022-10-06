@@ -10,11 +10,13 @@
 
 - 🔬 I did my Minor about [a modern portfolio interpretation](https://github.com/diorcula/minor_digital-media-production-portfolop)
 
+- 🏢 I did my internship at [Instance Studio](https://instance.studio/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/diorcula/](https://github.com/diorcula/)
 
 - 📝 I regularly write articles on [https://instance.studio/blog/](https://instance.studio/blog/)
 
-- 📫 How to reach me **soffersfka@gmail.com**
+- 📫 How to reach me: **[E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=soffersfka@gmail.com&su=Hello there!)** or through [LinkedIn](https://linkedin.com/fkasoffers/)
 
 - 📄 Know about my experiences [https://github.com/diorcula/resume](https://github.com/diorcula/resume)
 
@@ -105,14 +107,6 @@ Python                   1 repo              ██░░░░░░░░░�
 
  Last Updated on 06/10/2022 08:38:25 UTC
 <!--END_SECTION:waka-->
-
----
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/fkasoffers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fkasoffers" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/diorcula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="diorcula" height="30" width="40" /></a>
-</p>
 
 ---
 
