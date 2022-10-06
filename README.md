@@ -109,8 +109,6 @@ Python                   1 repo              ██░░░░░░░░░�
  Last Updated on 06/10/2022 08:38:25 UTC
 <!--END_SECTION:waka-->
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diorcula" alt="diorcula" /></a> </p>
-
 ---
 
 <h2 align="left">Connect with me:</h2>
