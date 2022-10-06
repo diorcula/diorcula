@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://instance.studio/blog/](https://instance.studio/blog/)
 
-- 📫 How to reach me: **[E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=soffersfka@gmail.com&su=Hello%there!)** or through [LinkedIn](https://linkedin.com/fkasoffers/)
+- 📫 How to reach me: **[my personal e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=soffersfka@gmail.com&su=Hello%20there!)** or through [LinkedIn](https://linkedin.com/fkasoffers/)
 
 - 📄 Know about my experiences [https://github.com/diorcula/resume](https://github.com/diorcula/resume)
 
