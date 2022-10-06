@@ -25,13 +25,88 @@
 ## 📈 Statistics
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 102 Contributions in the Year 2022
+ > 
+> 📦 73.5 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Haskell   4 hrs 37 mins   ████████████████████████░   96.41 %
-JSON      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+🌞 Morning    61 commits     ██████░░░░░░░░░░░░░░░░░░░   25.21% 
+🌆 Daytime    135 commits    ██████████████░░░░░░░░░░░   55.79% 
+🌃 Evening    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
+Tuesday      66 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Wednesday    72 commits     ███████░░░░░░░░░░░░░░░░░░   29.75% 
+Thursday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
+Friday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.79% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Haskell                  4 hrs 37 mins       ████████████████████████░   96.41% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+
+🔥 Editors: 
+VS Code                  4 hrs 47 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+app-paradigma            4 hrs 42 mins       ████████████████████████░   98.46% 
+ASD--APP_paradigm        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+diorcula                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+
+💻 Operating System: 
+Linux                    4 hrs 46 mins       █████████████████████████   99.86% 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/diorcula/diorcula/master/charts/bar_graph.png) 
+
+
+ Last Updated on 06/10/2022 08:38:25 UTC
 <!--END_SECTION:waka-->
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diorcula" alt="diorcula" /></a> </p>
