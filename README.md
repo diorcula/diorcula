@@ -26,11 +26,13 @@
 ## 📈 Statistics
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2028%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 102 Contributions in the Year 2022
+> 🏆 113 Contributions in the Year 2022
  > 
 > 📦 73.5 kB Used in GitHub's Storage 
  > 
@@ -43,19 +45,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    61 commits     ██████░░░░░░░░░░░░░░░░░░░   25.21% 
-🌆 Daytime    135 commits    ██████████████░░░░░░░░░░░   55.79% 
-🌃 Evening    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
+🌞 Morning    66 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+🌆 Daytime    141 commits    ██████████████░░░░░░░░░░░   58.26% 
+🌃 Evening    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
+Monday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
 Tuesday      66 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
 Wednesday    72 commits     ███████░░░░░░░░░░░░░░░░░░   29.75% 
-Thursday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
+Thursday     53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.9% 
 Friday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.79% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
@@ -100,12 +102,8 @@ Python                   1 repo              ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/diorcula/diorcula/master/charts/bar_graph.png) 
-
-
- Last Updated on 06/10/2022 08:38:25 UTC
+ Last Updated on 06/10/2022 10:26:55 UTC
 <!--END_SECTION:waka-->
 
 ---
