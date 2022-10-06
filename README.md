@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=180&type=waving&color=191724&section=header&&text=Hi%20👋,%20I'm%20diorcula&fontColor=e0def4&fontSize=40)
 
-<h3>A passionate Software Development student from The Netherlands</h3>
-<p> <img src="https://komarev.com/ghpvc/?username=diorcula&label=Profile%20views&color=0e75b6&style=flat" alt="diorcula" /> </p>
+<h2>A passionate Software Development student from The Netherlands</h3>
 
 - 🔭 I’m currently working on [Haskell JSON parser](https://github.com/diorcula/APP_haskell-json-parser)
 
