@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Haskell JSON parser](https://github.com/diorcula/APP_haskell-json-parser)
 
-- 🌱 I’m currently learning about **Haskell, Java CSS Parser, Design Patterns**
+- 🌱 I’m currently learning about **Haskell, Java CSS Parser, GOF Design Patterns**
 
 - ✨ I'm most proud of [Livechat Socket.io prototype](https://github.com/diorcula/livechat-socket)
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://github.com/diorcula/resume](https://github.com/diorcula/resume)
 
-- ⚡ Fun fact **I really like Harry Potter and 🚴 🏄 🏂 🛹 !**
+- ⚡ Fun fact **I really like Harry Potter, Anime, Cheese and Sports[ 🚴 🏄 🏂 🛹 ]!**
 ---
 
 ## 📈 Statistics
