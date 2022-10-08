@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=190&type=waving&color=1f1d2e&section=header&&text=Hi%20👋,%20I'm%20diorcula&fontColor=e0def4&fontSize=40)
+![header](https://capsule-render.vercel.app/api?height=190&type=waving&color=26233a&section=header&&text=Hi%20👋,%20I'm%20diorcula&fontColor=e0def4&fontSize=40)
 
 <h2>A passionate Software Development student from The Netherlands</h3>
 
@@ -109,4 +109,4 @@ Python                   1 repo              ██░░░░░░░░░�
 ---
 [![@diorcula's Holopin board](https://holopin.io/api/user/board?user=diorcula)](https://holopin.io/@diorcula)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=1f1d2e&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=26233a&section=footer)
