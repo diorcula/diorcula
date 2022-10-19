@@ -112,4 +112,4 @@ Python                   1 repo              ██░░░░░░░░░�
 ---
 [![@diorcula's Holopin board](https://holopin.io/api/user/board?user=diorcula)](https://holopin.io/@diorcula)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=26233a&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=faf4ed&section=footer)
