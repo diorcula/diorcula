@@ -27,7 +27,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,16 +72,19 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     2 mins              █████████████████████████   100.0%
+Java                     2 mins              ████████████░░░░░░░░░░░░░   50.04% 
+Markdown                 2 mins              ████████████░░░░░░░░░░░░░   49.96%
 
 🔥 Editors: 
-IntelliJ                 2 mins              █████████████████████████   100.0%
+IntelliJ                 4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-wakatest                 2 mins              █████████████████████████   100.0%
+wakatest                 2 mins              ████████████░░░░░░░░░░░░░   50.04% 
+OOAD_case-study-finch    2 mins              ████████████░░░░░░░░░░░░░   49.96%
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+Linux                    2 mins              ████████████░░░░░░░░░░░░░   50.04% 
+Windows                  2 mins              ████████████░░░░░░░░░░░░░   49.96%
 
 ```
 
@@ -98,7 +101,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2022 01:57:53 UTC
+ Last Updated on 03/11/2022 01:46:09 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
