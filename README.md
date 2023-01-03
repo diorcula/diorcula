@@ -43,48 +43,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    61 commits     ██████░░░░░░░░░░░░░░░░░░░   23.92% 
-🌆 Daytime    165 commits    ████████████████░░░░░░░░░   64.71% 
-🌃 Evening    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
-Tuesday      62 commits     ██████░░░░░░░░░░░░░░░░░░░   24.31% 
-Wednesday    77 commits     ███████░░░░░░░░░░░░░░░░░░   30.2% 
-Thursday     59 commits     █████░░░░░░░░░░░░░░░░░░░░   23.14% 
-Friday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49% 
-Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -98,7 +56,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 01:12:42 UTC
+ Last Updated on 03/01/2023 01:11:39 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
