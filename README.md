@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=190&type=waving&color=6272a4&section=header&&text=Hi%20👋,%20I'm%20Diorcula&fontColor=bd93f9&fontSize=40)
+![header](https://capsule-render.vercel.app/api?height=190&type=waving&color=6272a4&section=header&&text=Hi%20👋,%20I'm%20Diorcula&fontColor=f8f8f2&fontSize=40)
 
 <h2>A passionate Software Development student from The Netherlands</h3>
 
