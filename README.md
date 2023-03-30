@@ -85,17 +85,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Haskell                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Haskell                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 29/03/2023 01:20:11 UTC
+ Last Updated on 30/03/2023 01:15:25 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
