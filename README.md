@@ -85,17 +85,17 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TSQL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Haskell                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+TSQL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Haskell                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 13/10/2023 01:04:24 UTC
+ Last Updated on 14/10/2023 01:01:38 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
