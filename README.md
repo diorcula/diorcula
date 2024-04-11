@@ -27,8 +27,6 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -41,45 +39,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1126 commits        █████████░░░░░░░░░░░░░░░░   37.27 % 
-🌆 Daytime                1711 commits        ██████████████░░░░░░░░░░░   56.64 % 
-🌃 Evening                177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   974 commits         ████████░░░░░░░░░░░░░░░░░   32.24 % 
-Tuesday                  369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Wednesday                263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Thursday                 1124 commits        █████████░░░░░░░░░░░░░░░░   37.21 % 
-Friday                   154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Saturday                 110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Sunday                   27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-reg                      8 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          8 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -93,7 +52,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 01:03:29 UTC
+ Last Updated on 11/04/2024 01:04:27 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
