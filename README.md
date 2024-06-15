@@ -27,7 +27,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,32 +70,34 @@ Sunday                   27 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      2 hrs 1 min         ████████████████████████░   97.94 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Ssms                     2 hrs 1 min         ████████████████████████░   97.94 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-TSQL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Haskell                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TSQL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Haskell                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 14/06/2024 01:09:39 UTC
+ Last Updated on 15/06/2024 01:10:10 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
