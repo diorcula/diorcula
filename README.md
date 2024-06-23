@@ -27,7 +27,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,17 +70,21 @@ Sunday                   27 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Git Config               0 secs              ███████████████████████░░   91.39 % 
-XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Java                     32 mins             █████████████████████░░░░   85.53 % 
+XML                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+IntelliJ IDEA            37 mins             █████████████████████████   99.55 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-ALGPRP-APP-compiler      0 secs              █████████████████████████   100.00 % 
+Nieuwe Code              32 mins             ██████████████████████░░░   87.45 % 
+Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+ALGPRP-APP-compiler      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +100,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2024 01:09:21 UTC
+ Last Updated on 23/06/2024 01:14:23 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
