@@ -27,15 +27,13 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 64.9 kB Used in GitHub's Storage 
- > 
-> 🏆 3 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -70,21 +68,22 @@ Sunday                   27 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     7 hrs 39 mins       ██████████████████████░░░   87.56 % 
-Text                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-ANTLR v4 grammar file    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Java                     7 hrs 44 mins       ███████████████████████░░   93.57 % 
+ANTLR v4 grammar file    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 44 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ALGPRP-APP-compiler      7 hrs 13 mins       █████████████████████░░░░   82.65 % 
-Nieuwe Code              55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-algprp-final             35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+ALGPRP-APP-compiler      7 hrs 20 mins       ██████████████████████░░░   88.76 % 
+Nieuwe Code              55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+startcode                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -100,7 +99,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2024 01:11:43 UTC
+ Last Updated on 10/07/2024 01:12:02 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
