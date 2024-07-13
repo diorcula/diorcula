@@ -27,9 +27,9 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,22 +70,22 @@ Sunday                   27 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     12 hrs 45 mins      ███████████████████████░░   92.27 % 
-ANTLR v4 grammar file    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Java                     12 hrs 24 mins      ███████████████████████░░   91.64 % 
+ANTLR v4 grammar file    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 hrs 50 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            13 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ALGPRP-APP-compiler      12 hrs 54 mins      ███████████████████████░░   93.27 % 
-Nieuwe Code              55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+ALGPRP-APP-compiler      13 hrs 29 mins      █████████████████████████   99.69 % 
+Nieuwe Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 startcode                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -101,7 +101,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2024 01:10:55 UTC
+ Last Updated on 13/07/2024 01:12:15 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
