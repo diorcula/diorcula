@@ -27,6 +27,8 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -41,6 +43,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1126 commits        █████████░░░░░░░░░░░░░░░░   37.60 % 
+🌆 Daytime                1695 commits        ██████████████░░░░░░░░░░░   56.59 % 
+🌃 Evening                167 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   973 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
+Tuesday                  364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Wednesday                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Thursday                 1120 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
+Friday                   146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Saturday                 103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Sunday                   27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -54,7 +95,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2024 01:20:08 UTC
+ Last Updated on 10/09/2024 01:18:58 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
