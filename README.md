@@ -27,7 +27,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,17 +70,19 @@ Sunday                   27 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     2 hrs 2 mins        █████████████████████████   100.00 % 
+Java                     2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 41 mins        █████████████████████░░░░   82.98 % 
-Unknown Editor           20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+IntelliJ IDEA            2 hrs 22 mins       ██████████████████████░░░   87.31 % 
+Unknown Editor           20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 
 🐱‍💻 Projects: 
-OBJORA-gof-design-pattern2 hrs 2 mins        █████████████████████████   100.00 % 
+OBJORA-gof-design-pattern2 hrs 2 mins        ███████████████████░░░░░░   74.58 % 
+tentamen testing         40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +98,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2024 01:21:52 UTC
+ Last Updated on 18/10/2024 01:22:05 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
