@@ -27,13 +27,15 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 64.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 21 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -68,19 +70,19 @@ Sunday                   28 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     6 hrs 55 mins       █████████████████████████   99.56 % 
-ANTLR v4 grammar file    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Java                     10 hrs 53 mins      ████████████████████████░   95.65 % 
+ANTLR v4 grammar file    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 56 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            11 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OBJORA-casestudy         4 hrs 45 mins       █████████████████░░░░░░░░   68.58 % 
-ALGPRP-APP-compiler      1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-OBJORA-gof-design-pattern12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+ALGPRP-APP-compiler      6 hrs 24 mins       ██████████████░░░░░░░░░░░   56.24 % 
+OBJORA-casestudy         4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
+OBJORA-gof-design-pattern12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-Linux                    6 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +98,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2024 01:22:39 UTC
+ Last Updated on 31/10/2024 01:23:21 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
