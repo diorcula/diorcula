@@ -27,7 +27,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,19 +70,20 @@ Sunday                   28 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     10 hrs 53 mins      ████████████████████████░   95.65 % 
-ANTLR v4 grammar file    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Java                     13 hrs 6 mins       ███████████████████████░░   92.23 % 
+ANTLR v4 grammar file    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 23 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            14 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ALGPRP-APP-compiler      6 hrs 24 mins       ██████████████░░░░░░░░░░░   56.24 % 
-OBJORA-casestudy         4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
-OBJORA-gof-design-pattern12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+ALGPRP-APP-compiler      11 hrs 42 mins      █████████████████████░░░░   82.40 % 
+OBJORA-casestudy         2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+tentamen testing         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +99,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2024 01:23:21 UTC
+ Last Updated on 01/11/2024 01:27:59 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
