@@ -27,8 +27,6 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -43,50 +41,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1126 commits        █████████░░░░░░░░░░░░░░░░   37.50 % 
-🌆 Daytime                1701 commits        ██████████████░░░░░░░░░░░   56.64 % 
-🌃 Evening                169 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   979 commits         ████████░░░░░░░░░░░░░░░░░   32.60 % 
-Tuesday                  366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Wednesday                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Thursday                 1123 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
-Friday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Saturday                 103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Sunday                   28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Java                     15 hrs 18 mins      ███████████████████████░░   91.90 % 
-ANTLR v4 grammar file    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-IntelliJ IDEA            16 hrs 39 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ALGPRP-APP-compiler      16 hrs 32 mins      █████████████████████████   99.29 % 
-OBJORA-casestudy         7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-tentamen testing         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Linux                    16 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -100,7 +54,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 01:27:07 UTC
+ Last Updated on 04/11/2024 01:24:23 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
