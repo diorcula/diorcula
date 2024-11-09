@@ -27,7 +27,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,19 +70,19 @@ Sunday                   28 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     4 hrs 37 mins       ████████████████████████░   94.96 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-ANTLR v4 grammar file    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     4 hrs 56 mins       ████████████████████████░   94.92 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+ANTLR v4 grammar file    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 52 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ALGPRP-APP-compiler      4 hrs 52 mins       █████████████████████████   100.00 % 
+ALGPRP-APP-compiler      5 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +98,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2024 01:20:52 UTC
+ Last Updated on 09/11/2024 01:18:53 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
