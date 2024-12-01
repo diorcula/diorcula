@@ -27,8 +27,6 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2040%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -43,59 +41,20 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1127 commits        █████████░░░░░░░░░░░░░░░░   37.52 % 
-🌆 Daytime                1701 commits        ██████████████░░░░░░░░░░░   56.62 % 
-🌃 Evening                169 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   979 commits         ████████░░░░░░░░░░░░░░░░░   32.59 % 
-Tuesday                  367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Wednesday                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Thursday                 1123 commits        █████████░░░░░░░░░░░░░░░░   37.38 % 
-Friday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Saturday                 103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Sunday                   28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
-Java                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Haskell                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Java                     5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Haskell                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 30/11/2024 01:25:27 UTC
+ Last Updated on 01/12/2024 01:47:49 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
