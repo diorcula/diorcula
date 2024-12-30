@@ -27,13 +27,13 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 74.3 kB Used in GitHub's Storage 
+> 📦 74.4 kB Used in GitHub's Storage 
  > 
 > 🏆 67 Contributions in the Year 2024
  > 
@@ -70,22 +70,22 @@ Sunday                   28 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          █████████████░░░░░░░░░░░░   53.62 % 
-XML                      52 mins             ████████████░░░░░░░░░░░░░   46.28 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 1 hr 14 mins        ███████████████░░░░░░░░░░   58.52 % 
+XML                      52 mins             ██████████░░░░░░░░░░░░░░░   41.39 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 1 min          █████████████░░░░░░░░░░░░   53.62 % 
-VS Code                  52 mins             ████████████░░░░░░░░░░░░░   46.38 % 
+Obsidian                 1 hr 14 mins        ███████████████░░░░░░░░░░   58.52 % 
+VS Code                  52 mins             ██████████░░░░░░░░░░░░░░░   41.48 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 1 min          █████████████░░░░░░░░░░░░   53.62 % 
-quartz                   52 mins             ████████████░░░░░░░░░░░░░   46.38 % 
+Unknown Project          1 hr 14 mins        ███████████████░░░░░░░░░░   58.52 % 
+quartz                   52 mins             ██████████░░░░░░░░░░░░░░░   41.48 % 
 
 💻 Operating System: 
-Linux                    1 hr 50 mins        ████████████████████████░   97.14 % 
-Windows                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Linux                    1 hr 50 mins        ██████████████████████░░░   86.88 % 
+Windows                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
 ```
 
 **I Mostly Code in Java** 
@@ -101,7 +101,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2024 01:28:46 UTC
+ Last Updated on 30/12/2024 01:24:24 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
