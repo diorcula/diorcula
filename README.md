@@ -27,15 +27,13 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 74.2 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2025
+> 🏆 13 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -43,53 +41,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1160 commits        █████████░░░░░░░░░░░░░░░░   37.31 % 
-🌆 Daytime                1771 commits        ██████████████░░░░░░░░░░░   56.96 % 
-🌃 Evening                171 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1011 commits        ████████░░░░░░░░░░░░░░░░░   32.52 % 
-Tuesday                  387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Thursday                 1131 commits        █████████░░░░░░░░░░░░░░░░   36.38 % 
-Friday                   167 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Saturday                 103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Sunday                   30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Markdown                 2 hrs 49 mins       █████████████████░░░░░░░░   69.24 % 
-Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Image (svg)              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-
-🔥 Editors: 
-Obsidian                 2 hrs 39 mins       ████████████████░░░░░░░░░   65.07 % 
-VS Code                  1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   34.93 % 
-
-🐱‍💻 Projects: 
-Unknown Project          2 hrs 39 mins       ████████████████░░░░░░░░░   65.07 % 
-quartz                   48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-quartz-test              35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-cms-project              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-💻 Operating System: 
-Linux                    2 hrs 33 mins       ████████████████░░░░░░░░░   62.88 % 
-Windows                  1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   37.12 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -103,7 +54,7 @@ Haskell                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 01:21:59 UTC
+ Last Updated on 10/01/2025 01:24:27 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
