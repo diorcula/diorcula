@@ -27,7 +27,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,20 +70,20 @@ Sunday                   30 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 24 mins       ██████████████░░░░░░░░░░░   56.98 % 
-Markdown                 1 hr 48 mins        ███████████░░░░░░░░░░░░░░   42.93 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 3 hrs 59 mins       ████████████████░░░░░░░░░   62.28 % 
+TypeScript               2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.65 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 24 mins       ██████████████░░░░░░░░░░░   57.07 % 
-Obsidian                 1 hr 48 mins        ███████████░░░░░░░░░░░░░░   42.93 % 
+Obsidian                 3 hrs 59 mins       ████████████████░░░░░░░░░   62.28 % 
+VS Code                  2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.72 % 
 
 🐱‍💻 Projects: 
-research-project-fedor   2 hrs 24 mins       ██████████████░░░░░░░░░░░   57.07 % 
-Unknown Project          1 hr 48 mins        ███████████░░░░░░░░░░░░░░   42.93 % 
+Unknown Project          3 hrs 59 mins       ████████████████░░░░░░░░░   62.28 % 
+research-project-fedor   2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.72 % 
 
 💻 Operating System: 
-Linux                    4 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +99,7 @@ Haskell                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 01:25:34 UTC
+ Last Updated on 10/02/2025 01:22:48 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
