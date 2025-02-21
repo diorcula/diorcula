@@ -27,7 +27,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,23 +68,23 @@ Sunday                   30 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               10 hrs 26 mins      ██████████████░░░░░░░░░░░   57.37 % 
-PHP                      3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Twig                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TypeScript               13 hrs 32 mins      ████████████████░░░░░░░░░   65.53 % 
+PHP                      3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Markdown                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Twig                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 44 mins      ██████████████████████░░░   86.48 % 
-Obsidian                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+VS Code                  18 hrs 37 mins      ███████████████████████░░   90.19 % 
+Obsidian                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 
 🐱‍💻 Projects: 
-payload-medusa-integratio11 hrs 47 mins      ████████████████░░░░░░░░░   64.74 % 
-studiosupervisie         3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Unknown Project          2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+payload-medusa-integratio14 hrs 40 mins      ██████████████████░░░░░░░   71.03 % 
+studiosupervisie         3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Unknown Project          2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 
 💻 Operating System: 
-Linux                    18 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -100,7 +100,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2025 01:22:23 UTC
+ Last Updated on 21/02/2025 01:22:39 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
