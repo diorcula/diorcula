@@ -27,7 +27,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,24 +70,20 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               3 hrs 42 mins       ██████████████████░░░░░░░   73.82 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+TypeScript               29 mins             █████████████████░░░░░░░░   69.79 % 
+Markdown                 12 mins             ████████░░░░░░░░░░░░░░░░░   30.21 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       █████████████████████████   98.98 % 
-Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+VS Code                  29 mins             █████████████████░░░░░░░░   69.79 % 
+Obsidian                 12 mins             ████████░░░░░░░░░░░░░░░░░   30.21 % 
 
 🐱‍💻 Projects: 
-research-project-fedor   3 hrs 30 mins       █████████████████░░░░░░░░   69.78 % 
-quartz                   58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-medusa-plugin            29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+research-project-fedor   18 mins             ███████████░░░░░░░░░░░░░░   45.44 % 
+Unknown Project          12 mins             ████████░░░░░░░░░░░░░░░░░   30.21 % 
+medusa-plugin            10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
 
 💻 Operating System: 
-Linux                    5 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +99,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2025 01:30:32 UTC
+ Last Updated on 17/04/2025 01:29:28 UTC
 <!--END_SECTION:waka-->
 
 ![Alt](https://repobeats.axiom.co/api/embed/195761058168e90adc531c4a43f929d27a8d4e4c.svg "Repobeats analytics image")
