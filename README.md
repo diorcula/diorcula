@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=190&type=waving&color=6272a4&section=header&&fontColor=f8f8f2&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6272a4&section=header)
 
 ## 📈 Statistics
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
