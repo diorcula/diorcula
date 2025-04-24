@@ -1,27 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=190&type=waving&color=6272a4&section=header&&text=Hi%20👋,%20I'm%20Diorcula&fontColor=f8f8f2&fontSize=40)
-
-<h2>A passionate Software Development student from The Netherlands</h3>
-
-- 🔭 I’m currently working on [Haskell JSON parser](https://github.com/diorcula/APP_haskell-json-parser)
-
-- 🌱 I’m currently learning about **Haskell, Java CSS Parser, GOF Design Patterns**
-
-- ✨ I'm most proud of [Livechat Socket.io prototype](https://github.com/diorcula/livechat-socket)
-
-- 🔬 I did my Minor about [a modern portfolio interpretation](https://github.com/diorcula/minor_digital-media-production-portfolop)
-
-- 🏢 I did my internship at [Instance Studio](https://instance.studio/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/diorcula/](https://github.com/diorcula/)
-
-- 📝 I regularly write articles on [https://instance.studio/blog/](https://instance.studio/blog/)
-
-- 📫 How to reach me: **[my e-mail](mailto:soffersfka@gmail.com?subject=Hello%20from%20Github!)** or through [LinkedIn](https://linkedin.com/fkasoffers/)
-
-- 📄 Know about my experiences [https://github.com/diorcula/resume](https://github.com/diorcula/resume)
-
-- ⚡ Fun fact **I really like Harry Potter, Anime, Cheese and Sports[ 🚴 🏄 🏂 🛹 ]!**
----
+![header](https://capsule-render.vercel.app/api?height=190&type=waving&color=6272a4&section=header&&fontColor=f8f8f2&fontSize=40)
 
 ## 📈 Statistics
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
