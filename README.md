@@ -10,6 +10,8 @@
 
 > 📦 84.7 kB Used in GitHub's Storage 
  > 
+> 🏆 170 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -43,21 +45,16 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 12 mins             █████████████████████░░░░   85.85 % 
-Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Obsidian                 12 mins             █████████████████████░░░░   85.85 % 
-VS Code                  2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          12 mins             █████████████████████░░░░   85.85 % 
-research-project-fedor   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████░░░░   85.85 % 
-Mac                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +70,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2025 01:47:30 UTC
+ Last Updated on 06/06/2025 01:43:12 UTC
 <!--END_SECTION:waka-->
  
 ---
