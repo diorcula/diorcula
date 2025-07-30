@@ -2,7 +2,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,21 +45,21 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               16 hrs 49 mins      ████████████████████████░   97.31 % 
-Docker                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               13 hrs 41 mins      ████████████████████████░   96.71 % 
+Docker                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-payload-portfolio        9 hrs 20 mins       ██████████████░░░░░░░░░░░   54.01 % 
-greatexpectations        7 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
+greatexpectations        9 hrs 55 mins       ██████████████████░░░░░░░   70.01 % 
+payload-portfolio        4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
 
 💻 Operating System: 
-Mac                      17 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2025 02:05:01 UTC
+ Last Updated on 30/07/2025 01:55:20 UTC
 <!--END_SECTION:waka-->
  
 ---
