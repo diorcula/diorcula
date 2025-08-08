@@ -2,13 +2,15 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 85.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 249 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -43,19 +45,19 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               23 hrs 7 mins       █████████████████████████   99.95 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               21 hrs 30 mins      █████████████████████████   99.94 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  21 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-greatexpectations        23 hrs 7 mins       █████████████████████████   100.00 % 
+greatexpectations        21 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -71,7 +73,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2025 01:56:14 UTC
+ Last Updated on 08/08/2025 01:55:17 UTC
 <!--END_SECTION:waka-->
  
 ---
