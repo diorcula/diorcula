@@ -2,13 +2,15 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 85.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 267 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -43,19 +45,19 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-SCSS                     8 hrs 50 mins       ███████████████░░░░░░░░░░   60.73 % 
-TypeScript               5 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.26 % 
+SCSS                     11 hrs 26 mins      ██████████████░░░░░░░░░░░   56.94 % 
+TypeScript               8 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.05 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-greatexpectations        14 hrs 33 mins      █████████████████████████   100.00 % 
+greatexpectations        20 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -71,7 +73,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2025 01:47:41 UTC
+ Last Updated on 16/08/2025 01:42:19 UTC
 <!--END_SECTION:waka-->
  
 ---
