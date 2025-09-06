@@ -10,8 +10,6 @@
 
 > 📦 85.9 kB Used in GitHub's Storage 
  > 
-> 🏆 307 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -45,17 +43,16 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 34 mins       ████████████████░░░░░░░░░   63.18 % 
-SCSS                     1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   36.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-greatexpectations        4 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -71,7 +68,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2025 01:27:36 UTC
+ Last Updated on 06/09/2025 01:25:09 UTC
 <!--END_SECTION:waka-->
  
 ---
