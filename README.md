@@ -2,15 +2,13 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-604%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 85.9 kB Used in GitHub's Storage 
- > 
-> 🏆 312 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -21,20 +19,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1279 commits        █████████░░░░░░░░░░░░░░░░   35.63 % 
-🌆 Daytime                2096 commits        ███████████████░░░░░░░░░░   58.38 % 
-🌃 Evening                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+🌞 Morning                1279 commits        █████████░░░░░░░░░░░░░░░░   35.56 % 
+🌆 Daytime                2103 commits        ███████████████░░░░░░░░░░   58.47 % 
+🌃 Evening                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1117 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Tuesday                  510 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Wednesday                369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Thursday                 1210 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Friday                   244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Saturday                 107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Monday                   1117 commits        ████████░░░░░░░░░░░░░░░░░   31.05 % 
+Tuesday                  517 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Wednesday                369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Thursday                 1210 commits        ████████░░░░░░░░░░░░░░░░░   33.64 % 
+Friday                   244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Saturday                 107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 Sunday                   33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
@@ -45,16 +43,17 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 9 mins        ████████████████░░░░░░░░░   65.19 % 
+SCSS                     1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   34.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+greatexpectations        4 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,7 +69,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2025 01:29:08 UTC
+ Last Updated on 10/09/2025 01:25:52 UTC
 <!--END_SECTION:waka-->
  
 ---
