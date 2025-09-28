@@ -2,8 +2,6 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2029%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -18,47 +16,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1305 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
-🌆 Daytime                2129 commits        ███████████████░░░░░░░░░░   58.33 % 
-🌃 Evening                202 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1134 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
-Tuesday                  524 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Wednesday                391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Thursday                 1212 commits        ████████░░░░░░░░░░░░░░░░░   33.21 % 
-Friday                   249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Saturday                 107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Sunday                   33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               11 hrs 35 mins      ██████████████░░░░░░░░░░░   55.87 % 
-SCSS                     9 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.12 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 45 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-greatexpectations        20 hrs 45 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      20 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -72,7 +29,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 01:24:26 UTC
+ Last Updated on 28/09/2025 01:42:47 UTC
 <!--END_SECTION:waka-->
  
 ---
