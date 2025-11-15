@@ -2,13 +2,13 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-776%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 85.9 kB Used in GitHub's Storage 
+> 📦 86.0 kB Used in GitHub's Storage 
  > 
 > 🏆 497 Contributions in the Year 2025
  > 
@@ -45,21 +45,21 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               10 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.94 % 
-CSS                      6 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-SCSS                     2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-PHP                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+TypeScript               12 hrs 15 mins      █████████████░░░░░░░░░░░░   51.79 % 
+SCSS                     6 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+CSS                      3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+PHP                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eelcocouvreur            12 hrs 23 mins      ███████████████░░░░░░░░░░   60.23 % 
-oranjebitter             8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.77 % 
+eelcocouvreur            18 hrs 36 mins      ████████████████████░░░░░   78.63 % 
+oranjebitter             5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
 
 💻 Operating System: 
-Mac                      20 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2025 01:43:54 UTC
+ Last Updated on 15/11/2025 01:31:38 UTC
 <!--END_SECTION:waka-->
  
 ---
