@@ -2,7 +2,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 > 📦 86.0 kB Used in GitHub's Storage 
  > 
-> 🏆 557 Contributions in the Year 2025
+> 🏆 565 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -18,50 +18,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1483 commits        █████████░░░░░░░░░░░░░░░░   34.54 % 
-🌆 Daytime                2591 commits        ███████████████░░░░░░░░░░   60.34 % 
-🌃 Evening                206 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1290 commits        ████████░░░░░░░░░░░░░░░░░   30.04 % 
-Tuesday                  658 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Wednesday                583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Thursday                 1350 commits        ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Friday                   273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Saturday                 107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Sunday                   33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               17 hrs 30 mins      █████████████████░░░░░░░░   68.00 % 
-SCSS                     8 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  25 hrs 45 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-waggingfinger            25 hrs 42 mins      █████████████████████████   99.81 % 
-eelcocouvreur            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-💻 Operating System: 
-Mac                      25 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -75,7 +31,7 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2025 01:46:18 UTC
+ Last Updated on 03/12/2025 01:45:28 UTC
 <!--END_SECTION:waka-->
  
 ---
