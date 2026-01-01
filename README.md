@@ -2,7 +2,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 > 📦 86.5 kB Used in GitHub's Storage 
  > 
-> 🏆 639 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -45,19 +45,16 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               4 hrs 27 mins       █████████████████████████   98.12 % 
-SCSS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
+Obsidian                 7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mailchimp                4 hrs 32 mins       █████████████████████████   100.00 % 
+Unknown Project          7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +70,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 01:51:13 UTC
+ Last Updated on 01/01/2026 02:00:37 UTC
 <!--END_SECTION:waka-->
  
 ---
