@@ -2,13 +2,15 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-957%20hrs%2010%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 94.3 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2026
+> 🏆 63 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -16,6 +18,55 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1536 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
+🌆 Daytime                2608 commits        ███████████████░░░░░░░░░░   60.15 % 
+🌃 Evening                178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1314 commits        ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Tuesday                  709 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Wednesday                602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Thursday                 1376 commits        ████████░░░░░░░░░░░░░░░░░   31.73 % 
+Friday                   273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Saturday                 29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Sunday                   33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+SCSS                     5 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+JavaScript               5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+PHP                      4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+TypeScript               4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+
+🔥 Editors: 
+VS Code                  22 hrs 14 mins      █████████████████████████   99.98 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🐱‍💻 Projects: 
+waggingfinger            8 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.31 % 
+plugintesting            5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+mailchimp-wordpress-plugi4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+fair                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+mailchimp                1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+
+💻 Operating System: 
+Mac                      22 hrs 14 mins      █████████████████████████   99.98 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -29,7 +80,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 02:24:56 UTC
+ Last Updated on 03/02/2026 02:15:24 UTC
 <!--END_SECTION:waka-->
  
 ---
