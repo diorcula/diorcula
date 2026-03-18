@@ -2,7 +2,7 @@
  <a href="https://stackoverflow.com/users/10433530/diorcula"><img src="https://stackoverflow.com/users/flair/10433530.png" width="208" height="58" alt="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diorcula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,19 +45,19 @@ Sunday                   33 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 34 mins             ████████████████████████░   97.48 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Markdown                 15 mins             ████████████████████████░   94.51 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-Obsidian                 34 mins             ████████████████████████░   97.48 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Obsidian                 15 mins             ████████████████████████░   94.51 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🐱‍💻 Projects: 
-Unknown Project          34 mins             ████████████████████████░   97.48 % 
-nw_wrld                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Unknown Project          15 mins             ████████████████████████░   94.51 % 
+nw_wrld                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +73,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2026 02:14:05 UTC
+ Last Updated on 18/03/2026 02:26:12 UTC
 <!--END_SECTION:waka-->
  
 ---
